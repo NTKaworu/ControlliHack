@@ -1,0 +1,5 @@
+name: ControlliHack
+version: 1.0
+author: Kaworu
+main: com.kaworu.controllihack.Controllihack
+api-version: 1.16.5
