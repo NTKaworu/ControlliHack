@@ -1,0 +1,5 @@
+name: Controllihack
+version: ${project.version}
+main: com.kaworu.controllihack.controllihack.Controllihack
+api-version: 1.16
+authors: [ Kaworu, Propants05 ]
